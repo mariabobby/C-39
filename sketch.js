@@ -33,11 +33,11 @@ function draw(){
   }
 }
 function preload(){
-  C1 = loadImage("images/car1.png")
-  C2 = loadImage("images/car2.png")
-  C3 = loadImage("images/car3.png")
-  C4 = loadImage("images/car4.png")
-  track = loadImage("images/track.jpg")
-  ground = loadImage("images/ground.png")
+  C1 = loadImage("car1.png")
+  C2 = loadImage("car2.png")
+  C3 = loadImage("car3.png")
+  C4 = loadImage("car4.png")
+  track = loadImage("track.jpg")
+  ground = loadImage("ground.png")
 
 }
